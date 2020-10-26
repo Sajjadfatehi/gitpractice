@@ -1,0 +1,23 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <declare-styleable name="ValueBar">
+
+        <attr name="barHeight" format="dimension" />
+        <attr name="barLength" format="dimension"/>
+        <attr name="barCornerRadius" format="dimension"/>
+        <attr name="barBackGroundColor" format="color"/>
+        <attr name="barColor" format="color"/>
+        <attr name="fill" format="integer"/>
+
+
+            </declare-styleable>
+
+</resources>
