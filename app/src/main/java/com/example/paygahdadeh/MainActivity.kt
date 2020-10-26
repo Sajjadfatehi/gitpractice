@@ -65,8 +65,4 @@ class MainActivity : AppCompatActivity() {
     //c
 
 
-    //this nothing
-
-    //this is nothing
-
 }
