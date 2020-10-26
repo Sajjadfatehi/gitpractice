@@ -50,6 +50,7 @@ class MainActivity : AppCompatActivity() {
         return "mamad1"
     }
 //h
+    //i
     suspend fun tabe2(): String {
         delay(3000L)
         return "mamad2"
