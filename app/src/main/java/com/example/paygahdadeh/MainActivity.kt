@@ -54,6 +54,6 @@ class MainActivity : AppCompatActivity() {
         delay(3000L)
         return "mamad2"
     }
-
+//this is first text from cj2
 
 }
