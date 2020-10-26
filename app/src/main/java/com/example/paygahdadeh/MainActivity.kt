@@ -49,6 +49,7 @@ class MainActivity : AppCompatActivity() {
         delay(3000L)
         return "mamad1"
     }
+//m
 //h
     //i
     suspend fun tabe2(): String {
